@@ -317,6 +317,11 @@ return [
             'url' => '/gallery',
             'icon' => 'fas fa-fw fa-camera',
         ],
+        [
+            'text' => 'Nosotros',
+            'url' => '/about',
+            'icon' => 'fas fa-fw fa-users',
+        ],
     ],
 
     /*
